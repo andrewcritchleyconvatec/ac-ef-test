@@ -16,3 +16,4 @@ C:\Users\an16458\source\repos\EFCF\EFCF\obj\Debug\EFCF.Migrations.AddedAdditiona
 C:\Users\an16458\source\repos\EFCF\EFCF\obj\Debug\EFCF.Migrations.AddedOrdersTable.resources
 C:\Users\an16458\source\repos\EFCF\EFCF\obj\Debug\EFCF.Migrations.AddedOrderQty.resources
 C:\Users\an16458\source\repos\EFCF\EFCF\obj\Debug\EFCF.Migrations.Added_Saswati_Column.resources
+C:\Users\an16458\source\repos\EFCF\EFCF\obj\Debug\EFCF.Migrations.AddedUserTable.resources

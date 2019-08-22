@@ -10,5 +10,6 @@ namespace EFCF.DAL
     }
         public IDbSet<Customer> Customers { get; set; }
         public IDbSet<Order> Orders { get; set; }
+        public IDbSet<User> Users { get; set; }
     }
 }
