@@ -53,6 +53,7 @@
     <Compile Include="DAL\AndrewContext.cs" />
     <Compile Include="DAL\Models\Customer.cs" />
     <Compile Include="DAL\Models\Order.cs" />
+    <Compile Include="DAL\Models\User.cs" />
     <Compile Include="Migrations\201908221355427_IntialCreate.cs" />
     <Compile Include="Migrations\201908221355427_IntialCreate.Designer.cs">
       <DependentUpon>201908221355427_IntialCreate.cs</DependentUpon>
