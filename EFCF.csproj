@@ -74,6 +74,10 @@
     <Compile Include="Migrations\201908221418573_Added_Saswati_Column.Designer.cs">
       <DependentUpon>201908221418573_Added_Saswati_Column.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201908221439470_AddedUserTable.cs" />
+    <Compile Include="Migrations\201908221439470_AddedUserTable.Designer.cs">
+      <DependentUpon>201908221439470_AddedUserTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -97,6 +101,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201908221418573_Added_Saswati_Column.resx">
       <DependentUpon>201908221418573_Added_Saswati_Column.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908221439470_AddedUserTable.resx">
+      <DependentUpon>201908221439470_AddedUserTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
